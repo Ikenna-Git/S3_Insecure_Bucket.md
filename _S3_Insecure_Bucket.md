@@ -1,4 +1,4 @@
-# 🛡️Simulating an Insecure S3 Bucket (CloudSec Demo)
+# 🛡️Simulating an Insecure S3 Bucket (CloudSec)
 **Objective:** Understand how a misconfigured S3 bucket leads to data exposure, and set the stage to fix it.
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🪣 Bucket Setup
 
-- **Bucket Name:** `ikenna-cloudsec-demo`
+- **Bucket Name:** `ikenna-cloud`
 - **Region:** `us-east-1` (or your region)
 - **Public Access Settings:**
   - Block all public access: ❌ Disabled
