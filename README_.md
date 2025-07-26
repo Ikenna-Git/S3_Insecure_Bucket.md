@@ -51,10 +51,11 @@ cloud-security-projects/
 ---
 
 ## 📸 Screenshots and Evidence
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 31 54 PM" src="https://github.com/user-attachments/assets/2c987229-a2b5-4fdd-bf23-c6e617fbbf3c" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 30 29 PM" src="https://github.com/user-attachments/assets/2647bb07-72f1-453c-95c8-b7ef69c2cdd7" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 28 39 PM" src="https://github.com/user-attachments/assets/0d1788ce-762b-4cc3-a270-0fcc6b7f89bc" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 27 57 PM" src="https://github.com/user-attachments/assets/b71d7d26-36eb-4cd7-bc5c-88f8654ae4ea" />
+<img width="1524" height="896" alt="Screen Shot 2025-07-26 at 10 45 42 PM" src="https://github.com/user-attachments/assets/e483c314-db20-4460-ba33-fb83c466646d" />
+<img width="1526" height="898" alt="Screen Shot 2025-07-26 at 10 45 23 PM" src="https://github.com/user-attachments/assets/525d8bba-69fc-4ce6-b3a2-cda1992f17ca" />
+<img width="1522" height="895" alt="Screen Shot 2025-07-26 at 10 45 09 PM" src="https://github.com/user-attachments/assets/2ef7742f-64e6-4ab5-8b80-fdcd8eac1d08" />
+<img width="1524" height="895" alt="Screen Shot 2025-07-26 at 10 44 45 PM" src="https://github.com/user-attachments/assets/e131dfdb-26f5-4cc7-92f2-1f897ab91179" />
+
 
 ---
 
