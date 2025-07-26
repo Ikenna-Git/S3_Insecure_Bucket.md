@@ -51,8 +51,10 @@ cloud-security-projects/
 ---
 
 ## 📸 Screenshots and Evidence
-
-All screenshots and supporting files are stored in the `/assets/` folder and linked within each project's documentation.
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 31 54 PM" src="https://github.com/user-attachments/assets/2c987229-a2b5-4fdd-bf23-c6e617fbbf3c" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 30 29 PM" src="https://github.com/user-attachments/assets/2647bb07-72f1-453c-95c8-b7ef69c2cdd7" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 28 39 PM" src="https://github.com/user-attachments/assets/0d1788ce-762b-4cc3-a270-0fcc6b7f89bc" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 27 57 PM" src="https://github.com/user-attachments/assets/b71d7d26-36eb-4cd7-bc5c-88f8654ae4ea" />
 
 ---
 
