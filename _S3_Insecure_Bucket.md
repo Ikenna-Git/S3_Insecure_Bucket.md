@@ -54,10 +54,11 @@
 ---
 
 ## 📸 Screenshots
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 33 16 PM" src="https://github.com/user-attachments/assets/23a00f32-1ea4-4e97-b6cf-936effd5de18" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 31 54 PM" src="https://github.com/user-attachments/assets/b4074240-3ba8-4d71-9eb0-37fe377f1160" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 30 29 PM" src="https://github.com/user-attachments/assets/7fc8ae64-6f76-4a8b-9856-bb384cc12c31" />
-<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 28 39 PM" src="https://github.com/user-attachments/assets/b2c330d9-ec32-4cc5-a641-9eecaae362a5" />
+<img width="1524" height="896" alt="Screen Shot 2025-07-26 at 10 45 42 PM" src="https://github.com/user-attachments/assets/1f721c5c-8cf3-41f0-9e10-8115da0ac739" />
+<img width="1526" height="898" alt="Screen Shot 2025-07-26 at 10 45 23 PM" src="https://github.com/user-attachments/assets/c64e0370-0a22-46c7-9565-e8038d52b5dd" />
+<img width="1522" height="895" alt="Screen Shot 2025-07-26 at 10 45 09 PM" src="https://github.com/user-attachments/assets/f1f7734a-bbe3-449a-a7de-af10a1238643" />
+<img width="1524" height="895" alt="Screen Shot 2025-07-26 at 10 44 45 PM" src="https://github.com/user-attachments/assets/6519c5b5-ebda-4cc4-b1b4-ae3406fe5ef7" />
+
 
 1. Bucket public access settings
 2. Bucket policy showing public access
