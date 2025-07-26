@@ -1,13 +1,6 @@
-# ☁️ 100 Days of Cloud Security Challenge
+# Cloud Security trial
 
-Welcome to my **100 Days of Cloud Security Challenge** — a personal commitment to deep-dive into cloud security concepts, tools, and real-world best practices. This repository documents my progress, projects, and learning experiences as I move from fundamentals to advanced cloud security topics.
-
----
-
-## 📅 Challenge Duration
-
-**Start Date:** [Replace with your start date]  
-**End Date:** [Will auto-calculate or update based on progress]
+** — a personal commitment to deep-dive into cloud security concepts, tools, and real-world best practices. This repository documents my progress, projects, and learning experiences as I move from fundamentals to advanced cloud security topics.
 
 ---
 
@@ -37,7 +30,7 @@ Welcome to my **100 Days of Cloud Security Challenge** — a personal commitment
 
 | Day | Title | Status |
 |-----|-------|--------|
-| 1 | [Simulating an Insecure S3 Bucket](Day01_S3_Insecure_Bucket.md) | ✅ Completed |
+| 1 | [Simulating an Insecure S3 Bucket](S3_Insecure_Bucket.md) | ✅ Completed |
 | 2 | Restricted IAM User Access | 🔒 Coming Up |
 | 3–100 | ... | 🔄 In Progress |
 
@@ -55,8 +48,11 @@ Welcome to my **100 Days of Cloud Security Challenge** — a personal commitment
 ---
 
 ## 📸 Screenshots and Evidence
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 33 16 PM" src="https://github.com/user-attachments/assets/73731542-b717-428b-a04a-ae60e6d8d605" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 31 54 PM" src="https://github.com/user-attachments/assets/e6e44419-ea12-46b8-9fec-e3dd43f327e7" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 30 29 PM" src="https://github.com/user-attachments/assets/2de8727d-3f8e-4ede-9bff-5a0bc6e2db0f" />
+<img width="1680" height="1050" alt="Screen Shot 2025-07-26 at 6 28 39 PM" src="https://github.com/user-attachments/assets/20e156ff-494c-4db3-a6e2-852abcf0597a" />
 
-All screenshots and supporting files are stored in the `/assets/` folder and linked within each day's documentation.
 
 ---
 
@@ -68,5 +64,5 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## 🙌 Inspiration
 
-Inspired by the 100 Days of Cloud and real-world AWS security incident breakdowns.
+Inspired by the Days of Cloud and real-world AWS security incident breakdowns.
 
