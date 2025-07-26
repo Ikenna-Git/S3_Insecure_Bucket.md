@@ -18,7 +18,6 @@
 ```plaintext
 100-days-cloud-security/
 ├── Day01_S3_Insecure_Bucket.md
-├── Day02_Restricted_IAM_User.md
 ├── ...
 ├── assets/ (screenshots, diagrams, etc.)
 └── README.md
